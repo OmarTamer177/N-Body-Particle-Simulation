@@ -1,0 +1,9 @@
+implementation mpi
+particles 32
+iterations 200
+dt 0.005
+gravitational_constant 1
+softening 1e-06
+elapsed_seconds 0.0020303
+threads 1
+processes 4

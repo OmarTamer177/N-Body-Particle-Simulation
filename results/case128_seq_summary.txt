@@ -1,0 +1,9 @@
+implementation sequential
+particles 128
+iterations 200
+dt 0.005
+gravitational_constant 1
+softening 1e-06
+elapsed_seconds 0.0486752
+threads 1
+processes 1
